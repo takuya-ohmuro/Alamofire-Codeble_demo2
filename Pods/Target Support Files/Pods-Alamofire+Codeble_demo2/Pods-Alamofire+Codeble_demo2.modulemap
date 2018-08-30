@@ -1,0 +1,6 @@
+framework module Pods_Alamofire_Codeble_demo2 {
+  umbrella header "Pods-Alamofire+Codeble_demo2-umbrella.h"
+
+  export *
+  module * { export * }
+}
